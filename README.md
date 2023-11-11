@@ -1,4 +1,4 @@
-# Capstone_ios101 - APP: FitNow
+![IMG_8193](https://github.com/smyanj/Capstone_ios101/assets/95009071/72f96319-4128-4125-845a-085c785703e5)# Capstone_ios101 - APP: FitNow
 Capstone project as part of the IOS 101 course series by Codepath
 
 
@@ -28,30 +28,13 @@ Product Spec
 
 3. Navigation
 Tab Navigation (Tab to Screen)
+![IMG_8196](https://github.com/smyanj/Capstone_ios101/assets/95009071/8eb31f14-5de4-4de5-aba7-bbdbe3965aad)
 
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
+
 Flow Navigation (Screen to Screen)
-
-[list first screen here]
-[list screen navigation here]
-...
-[list second screen here]
-[list screen navigation here]
-...
-Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+![IMG_8193](https://github.com/smyanj/Capstone_ios101/assets/95009071/6588b72c-0af8-4744-b74c-42675524d1e5)
 
 [BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
+<img width="1440" alt="Screenshot 2023-11-10 at 7 42 41 PM" src="https://github.com/smyanj/Capstone_ios101/assets/95009071/037dcd62-4e26-4800-8025-5aa792c74427">
 
-Models
-[Add table of models]
 
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
