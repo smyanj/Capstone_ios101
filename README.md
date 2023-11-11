@@ -1,9 +1,9 @@
-![IMG_8193](https://github.com/smyanj/Capstone_ios101/assets/95009071/72f96319-4128-4125-845a-085c785703e5)# Capstone_ios101 - APP: FitNow
+#Capstone_ios101 - APP: FitNow
 Capstone project as part of the IOS 101 course series by Codepath
 
 
 Description
-[Description of your app]
+[This is a fitness app designed to help people who want to stay organized, and want motivation to work out to be able to track their different types of workouts. You can also show all your different splits, how many days in a row you worked out, and lastly a ranking system to have a friendly competition against friends, and globally]
 
 Category: Fitness
 Market: Fitness, wellness, and health
@@ -32,6 +32,7 @@ Tab Navigation (Tab to Screen)
 
 
 Flow Navigation (Screen to Screen)
+![IMG_8193](https://github.com/smyanj/Capstone_ios101/assets/95009071/72f96319-4128-4125-845a-085c785703e5)
 ![IMG_8193](https://github.com/smyanj/Capstone_ios101/assets/95009071/6588b72c-0af8-4744-b74c-42675524d1e5)
 
 [BONUS] Digital Wireframes & Mockups
