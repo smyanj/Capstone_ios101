@@ -1,32 +1,31 @@
-# Capstone_ios101
+# Capstone_ios101 - APP: FitNow
 Capstone project as part of the IOS 101 course series by Codepath
 
 
 Description
 [Description of your app]
 
-Category:
-Mobile:
-Story:
-Market:
-Habit:
-Scope:
+Category: Fitness
+Market: Fitness, wellness, and health
+Mobile: Allows users to sign in and track their workouts 
+Story: I think the app would futhfill people who both struggle at scheduling, and gives suggestions with working out. It also gives additional motivatiion, with an embeded ranking system. 
+Habit: The embeded ranking system will help users with keeping users engaged.
+Scope: Fitness influencers, people who want to get into working out, and individuals who want a healthier organized lifestyle.
+
 Product Spec
 1. User Stories (Required and Optional)
-Required Must-have Stories
+   - Optional: Able to move widgets around, nutrition tracker story
+   - Global rank shown
+3. Required Must-have Stories
+   - Option to track completed workouts
+   - calander to track if workout was done, and for how many days in a row
+   - rank level shown, goes up or down depending on if workout was done that day
 
-[fill in your required user stories here]
-...
-Optional Nice-to-have Stories
-
-[fill in your required user stories here]
-...
 2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
-... list second screen here]
-[list associated required story here]
-...
+
+![IMG_8191](https://github.com/smyanj/Capstone_ios101/assets/95009071/7a772e51-4089-49ca-899c-906b4a15e365)
+
+
 3. Navigation
 Tab Navigation (Tab to Screen)
 
