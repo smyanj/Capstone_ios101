@@ -39,6 +39,7 @@ Flow Navigation (Screen to Screen)
 <img width="1440" alt="Screenshot 2023-11-10 at 7 42 41 PM" src="https://github.com/smyanj/Capstone_ios101/assets/95009071/037dcd62-4e26-4800-8025-5aa792c74427">
 
 Updated Wireframe for current design implimented:
+![IMG_8294](https://github.com/smyanj/Capstone_ios101/assets/95009071/6c660968-5f8f-435a-8c5d-12038158514a)
 
 
 
