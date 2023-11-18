@@ -51,7 +51,7 @@ Adding task manager [x]
 Saving Data from task manager on Device [x]
 
 Sprint 3:
-adding ranking system [x]
+adding ranking system [-]
 
 Issues:
 - Due to time contraints, did not impliment ranking system yet but was able to get my own version of the to do list to work which would essentially function as the workout splits
