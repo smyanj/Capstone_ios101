@@ -56,7 +56,13 @@ Issues:
 - Due to time contraints, did not impliment ranking system yet but was able to get my own version of the to do list to work which would essentially function as the workout splits
 
 Video Demonstration:
-<div style="position: relative; padding-bottom: 217.30382293762577%; height: 0;"><iframe src="https://www.loom.com/embed/6a41db75df594ea4a04d2084d847ac26?sid=559cf0de-2bd2-4dfe-bab1-38e720d5ff8d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/6a41db75df594ea4a04d2084d847ac26">
+    </a>
+    <a href="https://www.loom.com/share/6a41db75df594ea4a04d2084d847ac26">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6a41db75df594ea4a04d2084d847ac26-with-play.gif">
+    </a>
+  </div>
 
 
 
