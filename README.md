@@ -38,4 +38,15 @@ Flow Navigation (Screen to Screen)
 [BONUS] Digital Wireframes & Mockups
 <img width="1440" alt="Screenshot 2023-11-10 at 7 42 41 PM" src="https://github.com/smyanj/Capstone_ios101/assets/95009071/037dcd62-4e26-4800-8025-5aa792c74427">
 
+Sprint 1:
+Setting up table view
+
+Sprint 2:
+Adding task manager
+
+Sprint 3:
+
+
+Issues:
+- Due to time contraints, did not impliment ranking system yet but was able to get my own version of the to do list to work which would essentially function as the workout splits
 
